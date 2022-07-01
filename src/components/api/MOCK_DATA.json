@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Annika",
+      "favouriteSnack": "Geisha",
+      "totalSnacks": 100
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Geisha",
+      "totalSnacks": 200
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Kexchoklad",
+      "totalSnacks": 100
+    },
+    {
+      "name": "Aadya",
+      "favouriteSnack": "Nötchoklad",
+      "totalSnacks": 2
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Nötchoklad",
+      "totalSnacks": 3
+    },
+    {
+      "name": "Jane",
+      "favouriteSnack": "Nötchoklad",
+      "totalSnacks": 17
+    },
+    {
+      "name": "Annika",
+      "favouriteSnack": "Geisha",
+      "totalSnacks": 100
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Geisha",
+      "totalSnacks": 700
+    },
+    {
+      "name": "Jane",
+      "favouriteSnack": "Nötchoklad",
+      "totalSnacks": 4
+    },
+    {
+      "name": "Aadya",
+      "favouriteSnack": "Center",
+      "totalSnacks": 7
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Geisha",
+      "totalSnacks": 900
+    },
+    {
+      "name": "Jane",
+      "favouriteSnack": "Nötchoklad",
+      "totalSnacks": 1
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Kexchoklad",
+      "totalSnacks": 12
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Plopp",
+      "totalSnacks": 40
+    },
+    {
+      "name": "Jonas",
+      "favouriteSnack": "Center",
+      "totalSnacks": 27
+    },
+    {
+      "name": "Aadya",
+      "favouriteSnack": "Center",
+      "totalSnacks": 2
+    },
+    {
+      "name": "Annika",
+      "favouriteSnack": "Center",
+      "totalSnacks": 8
+    }
+   ]

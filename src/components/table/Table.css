@@ -1,0 +1,43 @@
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 95%;
+  margin: auto;
+}
+
+table td,
+table th {
+  border-bottom: 1px solid hwb(0 100% 7%);
+  text-align: left;
+}
+
+table tr:hover {
+  box-shadow: 2px 2px 2px grey;
+}
+
+table th {
+  color: rgb(190, 183, 183);
+  font-weight: normal;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+table tr {
+  height: 55px;
+}
+/* Responsive */
+
+@media (max-width: 700px) {
+  table {
+    background: linear-gradient(45deg, #49a09d, #5f2c82);
+    color: white;
+  }
+  table td,
+  table th {
+    text-align: center;
+  }
+
+  table th {
+    color: black;
+  }
+}

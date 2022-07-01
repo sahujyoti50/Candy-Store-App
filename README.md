@@ -1,7 +1,7 @@
 Candy-Store-App Requirement Coverage:
 
 functional coverage:
-1. When the app is loaded, a list of the movies is displayed.
+1. When the app is loaded,Candy Store details are displayed.
 2. To display the list in table format,react hook useTable has been used.
 
 User Interface Coverage:

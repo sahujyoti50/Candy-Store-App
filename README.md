@@ -1,7 +1,7 @@
 Candy-Store-App Requirement Coverage:
 
 functional coverage:
-1. When the app is loaded,Candy Store details are getting displayed to the UI.
+1. When the app is loaded,Candy Store details are getting displayed on the UI.
 2. To display the list in table format,react hook useTable has been used.
 
 User Interface Coverage:
